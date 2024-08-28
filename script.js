@@ -1,1 +1,2 @@
-var h
+var h = 1
+alert(h)
